@@ -1,16 +1,8 @@
 # emergency_app
 
-A new Flutter project.
+A Flutter app where you can stores events and theirs details.
 
 ## Getting Started
+ The app has a interface where you tap a button to add a new events which require a title, a description and a images.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ When you summit that data, it stores it locally using a sqlite database, what then you can see all the data you have stored.
